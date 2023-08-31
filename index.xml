@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小鴨的創作湖畔</title>
-    <link>https://example.org/</link>
+    <link>https://stevenshih-0402.github.io/</link>
     <description>Recent content on 小鴨的創作湖畔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 30 Aug 2023 22:17:28 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Aug 2023 22:17:28 +0800</lastBuildDate><atom:link href="https://stevenshih-0402.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_hugo</title>
-      <link>https://example.org/post/hello_hugo/</link>
+      <link>https://stevenshih-0402.github.io/post/hello_hugo/</link>
       <pubDate>Wed, 30 Aug 2023 22:17:28 +0800</pubDate>
       
-      <guid>https://example.org/post/hello_hugo/</guid>
+      <guid>https://stevenshih-0402.github.io/post/hello_hugo/</guid>
       <description>Hello, HUGO! 個人網站
 放什麼乖乖，益全最可靠。</description>
     </item>
